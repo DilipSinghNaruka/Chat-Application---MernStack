@@ -71,7 +71,7 @@ Start the Client
 ### Notifications 
 ![](https://github.com/dilipsinghnaruka/Chat-Application---MernStack/blob/master/screenshots/group%20%2B%20notif.PNG)
 ### Add or Remove users from group
-![](https://github.com/dilipsinghnaruka/Chat-Application---MernStack/blob/master/screenshots/add%20rem.PNG)
+![](https://github.com/DilipSinghNaruka/Chat-Application---MernStack/blob/main/screenshots/add%20rem.PNG)
 ### View Other user Profile
 ![](https://github.com/dilipsinghnaruka/Chat-Application---MernStack/blob/master/screenshots/profile.PNG)
 ## Made By
