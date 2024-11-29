@@ -58,22 +58,22 @@ Start the Client
 # Features
 
 ### Authenticaton
-![](https://github.com/dilipsinghnaruka/Chat-Application---MernStack/blob/master/screenshots/login.PNG)
-![](https://github.com/dilipsinghnaruka/Chat-Application---MernStack/blob/master/screenshots/signup.PNG)
+![](https://github.com/DilipSinghNaruka/Chat-Application---MernStack/blob/main/screenshots/login.PNG)
+![](https://github.com/DilipSinghNaruka/Chat-Application---MernStack/blob/main/screenshots/signup.PNG)
 ### Real Time Chatting with Typing indicators
-![](https://github.com/dilipsinghnaruka/Chat-Application---MernStack/blob/master/screenshots/real-time.PNG)
+![](https://github.com/DilipSinghNaruka/Chat-Application---MernStack/blob/main/screenshots/real-time.PNG)
 ### One to One chat
-![](https://github.com/dilipsinghnaruka/Chat-Application---MernStack/blob/master/screenshots/mainscreen.PNG)
+![](https://github.com/DilipSinghNaruka/Chat-Application---MernStack/blob/main/screenshots/mainscreen.PNG)
 ### Search Users
-![](https://github.com/dilipsinghnaruka/Chat-Application---MernStack/blob/master/screenshots/search.PNG)
+![](https://github.com/DilipSinghNaruka/Chat-Application---MernStack/blob/main/screenshots/search.PNG)
 ### Create Group Chats
-![](https://github.com/dilipsinghnaruka/Chat-Application---MernStack/blob/master/screenshots/new%20grp.PNG)
+![](https://github.com/DilipSinghNaruka/Chat-Application---MernStack/blob/main/screenshots/new%20grp.PNG)
 ### Notifications 
-![](https://github.com/dilipsinghnaruka/Chat-Application---MernStack/blob/master/screenshots/group%20%2B%20notif.PNG)
+![](https://github.com/DilipSinghNaruka/Chat-Application---MernStack/blob/main/screenshots/group%20%2B%20notif.PNG)
 ### Add or Remove users from group
 ![](https://github.com/DilipSinghNaruka/Chat-Application---MernStack/blob/main/screenshots/add%20rem.PNG)
 ### View Other user Profile
-![](https://github.com/dilipsinghnaruka/Chat-Application---MernStack/blob/master/screenshots/profile.PNG)
+![](https://github.com/DilipSinghNaruka/Chat-Application---MernStack/blob/main/screenshots/profile.PNG)
 ## Made By
 
 - [@Dilip Singh Naruka](https://github.com/dilipsinghnaruka)
